@@ -1,0 +1,184 @@
+    1  git init
+    2  ls -al
+    3  ls .git
+    4  touch file1
+    5  git list
+    6  ls.git
+    7  ls .git
+    8  clear
+    9  git status
+   10  git add "file1"
+   11  git status
+   12  clear
+   13  git commit -m "file1"
+   14  ls
+   15  git log
+   16  clear
+   17  git config --list
+   18  w
+   19  clear
+   20  ls -al
+   21  git init
+   22  ls -al
+   23  clear
+   24  git commit -m "first commit"
+   25  git config --global user.email "bhanukanchanam@gmail.com"
+   26  git config --global user.name "bhanukanchanam"
+   27  git commit -m "first commit" file1
+   28  git status
+   29  git branch -M main
+   30  git remote add origin https://github.com/bhanukanchanam/git-learning.git
+   31  git push -u origin main
+   32  clear
+   33  touch app.py
+   34  touch test.py
+   35  touch .gitignore
+   36  git init
+   37  git status
+   38  lear
+   39  clear
+   40  git init
+   41  git status
+   42  ls
+   43  ls -al
+   44  clear
+   45  git add *
+   46  git status
+   47  git history
+   48  git restore *
+   49  git restore --staged * 
+   50  git restore --staged app.py
+   51  git restore --staged test.py
+   52  git restore  --staged README.md
+   53  git status
+   54  clear
+   55  git checkout -b 
+   56  git checkout -b master
+   57  git init
+   58  git status
+   59  ls -al
+   60  ls
+   61  clear
+   62  git add *
+   63  git staus
+   64  git status
+   65  clear
+   66  git checkout -b Raju
+   67  git commit -m "Raju files"
+   68  git remote add origin cal = Calculator(a=10,b=20)
+   69  git remote add origin https://github.com/bhanukanchanam/git-learning.git
+   70  git remote add origin https://github.com/bhanukanchanam/git-learning.git
+   71  git remote add origin https://github.com/bhanukanchanam/git-learning.git
+   72  git branch
+   73  git status
+   74  git checkout -b master
+   75  git branch master
+   76  clear
+   77  git branch
+   78  git checkout master
+   79  git branch
+   80  git status
+   81  git checkout Raju
+   82  git remote add origin https://github.com/bhanukanchanam/git-learning.git
+   83  git push - u Raju
+   84  git push -u Raju
+   85  git push -u origin Raju
+   86  git log
+   87  git branch
+   88  :q
+   89  wq
+   90  :wq
+   91  exit
+   92  touch file1
+   93  git init
+   94  ls
+   95  ls -al
+   96  git add *
+   97  git commit -m "file1"
+   98  git staus
+   99  git status
+  100  git remote add origin https://github.com/bhanukanchanam/demoproject.git
+  101  git push -u origin main
+  102  git push -u origin main
+  103  git push -u origin main
+  104  ls
+  105  code .
+  106  touch app.py
+  107  touch test.py
+  108  touch .gitignore
+  109  git init
+  110  git status
+  111  ls
+  112  ls -al
+  113  git status
+  114  git add *
+  115  git status
+  116  git checkout -b Raju
+  117  git commit -m "Raju files"
+  118  git remote add origin https://github.com/bhanukanchanam/git-learning.git
+  119  git push -u origin Raju
+  120  git branch
+  121  git checkout -b main
+  122  git branch
+  123  git status
+  124  git checkout -b Ravish
+  125  git branch
+  126  git status
+  127  git commit -m "Ravish files"
+  128  git add *
+  129  git status
+  130  git commit -m "Ravish files"
+  131  git push -u origin Ravish
+  132  git checkout main
+  133  git status
+  134  git status
+  135  git checkout -b Harish
+  136  git status
+  137  git add *
+  138  git status
+  139  git commit -m "Harish files"
+  140  git status
+  141  git push -u origin Harish
+  142  git pull origin Harish
+  143  git status
+  144  git add *
+  145  git status
+  146  git commit -m
+  147  git commit
+  148  git log
+  149  git push -u origin Harish
+  150  git branch main
+  151  git checkout -b main
+  152  git checkout main
+  153  git status
+  154  git add *
+  155  git push -u origin main
+  156  history
+  157  git checkout Ravish
+  158  touch myfile.txt
+  159  git status
+  160  git checkout Raju
+  161  git status
+  162  git  add *
+  163  git commit -m "myfile.txt"
+  164  git checkout Ravish
+  165  ls
+  166  git status
+  167  git checkout Raju
+  168  rm -r myfile.txt
+  169  git branch
+  170  git checkout main
+  171  git status
+  172  exit
+  173  git log
+  174  git status
+  175  git push -u origin main
+  176  git branch -M main
+  177  git remote add origin https://github.com/bhanukanchanam/demoproject.git
+  178  git push -u main
+  179  git push -u origin main
+  180  git push -u origin main
+  181  git clone https://github.com/bhanukanchanam/demoproject.git
+  182  ll
+  183  history
+  184  history > commands.txt
